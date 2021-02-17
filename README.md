@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-![Just some stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dnbtr&theme=chartreuse-dark)
+![Just some stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dnbtr&theme=dark)
+
+- I’m currently studying
+  - Some python;
+  - Architecture/Design Patterns
+
+- I’m looking to collaborate on any open source projects
 
 <!--
 **dnbtr/dnbtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
